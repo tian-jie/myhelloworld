@@ -1,0 +1,15 @@
+{
+  "name": "myexpressapp",
+  "version": "1.0.0",
+  "description": "my express app for lerning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jie Tian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
